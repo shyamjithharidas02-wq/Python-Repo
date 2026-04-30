@@ -1,0 +1,329 @@
+--- Welcome to Federal Bank ---
+1. New User
+2. Existing User
+3. Exit
+Enter choice: 1
+
+---
+
+Create Account ---
+First Name: shyam
+Last Name: jith
+Email: shyam@gmail.com
+Place: kochi
+
+✅ Account Created Successfully
+Username: shyam843
+Password: 2715
+
+--- Welcome to Federal Bank ---
+
+1. New User
+2. Existing User
+3. Exit
+   Enter choice: 2
+   Username: shyam843
+   Password: 2715
+   Login successful
+
+--- Bank Services ---
+
+1. Create Bank Account
+2. Deposit
+3. Withdraw
+4. Check Balance
+5. Transfer
+6. Transaction History
+7. Logout
+   Enter choice: 4
+
+--- Bank Services ---
+
+1. Create Bank Account
+2. Deposit
+3. Withdraw
+4. Check Balance
+5. Transfer
+6. Transaction History
+7. Logout
+   Enter choice: 1
+   Savings / Current: Savings
+   Savings Account Created: ACC1000
+
+--- Bank Services ---
+
+1. Create Bank Account
+2. Deposit
+3. Withdraw
+4. Check Balance
+5. Transfer
+6. Transaction History
+7. Logout
+   Enter choice: 2
+   Amount: 2500
+   [Federal Bank - shyam843] DEPOSIT: ₹2500, Balance: ₹2500
+
+--- Bank Services ---
+
+1. Create Bank Account
+2. Deposit
+3. Withdraw
+4. Check Balance
+5. Transfer
+6. Transaction History
+7. Logout
+   Enter choice: 4
+   Balance: 2500
+
+--- Bank Services ---
+
+1. Create Bank Account
+2. Deposit
+3. Withdraw
+4. Check Balance
+5. Transfer
+6. Transaction History
+7. Logout
+   Enter choice: 2
+   Amount: 3500
+   [Federal Bank - shyam843] DEPOSIT: ₹3500, Balance: ₹6000
+
+--- Bank Services ---
+
+1. Create Bank Account
+2. Deposit
+3. Withdraw
+4. Check Balance
+5. Transfer
+6. Transaction History
+7. Logout
+   Enter choice: 4
+   Balance: 6000
+
+--- Bank Services ---
+
+1. Create Bank Account
+2. Deposit
+3. Withdraw
+4. Check Balance
+5. Transfer
+6. Transaction History
+7. Logout
+   Enter choice: 3
+   Amount: 250
+   [Federal Bank - shyam843] WITHDRAW: ₹250, Balance: ₹5750
+
+--- Bank Services ---
+
+1. Create Bank Account
+2. Deposit
+3. Withdraw
+4. Check Balance
+5. Transfer
+6. Transaction History
+7. Logout
+   Enter choice: 6
+
+--- Transactions ---
+DEPOSIT: ₹2500, Balance: ₹2500
+DEPOSIT: ₹3500, Balance: ₹6000
+WITHDRAW: ₹250, Balance: ₹5750
+
+--- Bank Services ---
+
+1. Create Bank Account
+2. Deposit
+3. Withdraw
+4. Check Balance
+5. Transfer
+6. Transaction History
+7. Logout
+   Enter choice: 5
+   Enter receiver username: Aleena
+
+--- Bank Services ---
+
+1. Create Bank Account
+2. Deposit
+3. Withdraw
+4. Check Balance
+5. Transfer
+6. Transaction History
+7. Logout
+   Enter choice: 5
+   Enter receiver username: aleena
+
+--- Bank Services ---
+
+1. Create Bank Account
+2. Deposit
+3. Withdraw
+4. Check Balance
+5. Transfer
+6. Transaction History
+7. Logout
+   Enter choice: 6
+
+--- Transactions ---
+DEPOSIT: ₹2500, Balance: ₹2500
+DEPOSIT: ₹3500, Balance: ₹6000
+WITHDRAW: ₹250, Balance: ₹5750
+
+--- Bank Services ---
+
+1. Create Bank Account
+2. Deposit
+3. Withdraw
+4. Check Balance
+5. Transfer
+6. Transaction History
+7. Logout
+   Enter choice: 7
+
+--- Welcome to Federal Bank ---
+
+1. New User
+2. Existing User
+3. Exit
+   Enter choice: 1
+
+--- Create Account ---
+First Name: Aleena
+Last Name: mathew
+Email: aleena@gmail.com
+Place: kochi
+
+✅ Account Created Successfully
+Username: aleena138
+Password: 6659
+
+--- Welcome to Federal Bank ---
+
+1. New User
+2. Existing User
+3. Exit
+   Enter choice: 2
+   Username: aleena138
+   Password: 6659
+   Login successful
+
+--- Bank Services ---
+
+1. Create Bank Account
+2. Deposit
+3. Withdraw
+4. Check Balance
+5. Transfer
+6. Transaction History
+7. Logout
+   Enter choice: 4
+
+--- Bank Services ---
+
+1. Create Bank Account
+2. Deposit
+3. Withdraw
+4. Check Balance
+5. Transfer
+6. Transaction History
+7. Logout
+   Enter choice: 1
+   Savings / Current: Savings
+   Savings Account Created: ACC1001
+
+--- Bank Services ---
+
+1. Create Bank Account
+2. Deposit
+3. Withdraw
+4. Check Balance
+5. Transfer
+6. Transaction History
+7. Logout
+   Enter choice: 2
+   Amount: 1000
+   [Federal Bank - aleena138] DEPOSIT: ₹1000, Balance: ₹1000
+
+--- Bank Services ---
+
+1. Create Bank Account
+2. Deposit
+3. Withdraw
+4. Check Balance
+5. Transfer
+6. Transaction History
+7. Logout
+   Enter choice: 6
+
+--- Transactions ---
+DEPOSIT: ₹1000, Balance: ₹1000
+
+--- Bank Services ---
+
+1. Create Bank Account
+2. Deposit
+3. Withdraw
+4. Check Balance
+5. Transfer
+6. Transaction History
+7. Logout
+   Enter choice: 7
+
+--- Welcome to Federal Bank ---
+
+1. New User
+2. Existing User
+3. Exit
+   Enter choice: 2
+   Username: shyam843
+   Password: 2715
+   Login successful
+
+--- Bank Services ---
+
+1. Create Bank Account
+2. Deposit
+3. Withdraw
+4. Check Balance
+5. Transfer
+6. Transaction History
+7. Logout
+   Enter choice: 6
+
+--- Transactions ---
+DEPOSIT: ₹2500, Balance: ₹2500
+DEPOSIT: ₹3500, Balance: ₹6000
+WITHDRAW: ₹250, Balance: ₹5750
+
+--- Bank Services ---
+
+1. Create Bank Account
+2. Deposit
+3. Withdraw
+4. Check Balance
+5. Transfer
+6. Transaction History
+7. Logout
+   Enter choice: 5
+   Enter receiver username: aleena138
+   Amount: 1500
+   [Federal Bank - shyam843] TRANSFER SENT: ₹1500, Balance: ₹4250
+   [Federal Bank - aleena138] TRANSFER RECEIVED: ₹1500, Balance: ₹2500
+
+--- Bank Services ---
+
+1. Create Bank Account
+2. Deposit
+3. Withdraw
+4. Check Balance
+5. Transfer
+6. Transaction History
+7. Logout
+   Enter choice: 7
+
+--- Welcome to Federal Bank ---
+
+1. New User
+2. Existing User
+3. Exit
+   Enter choice: 3
